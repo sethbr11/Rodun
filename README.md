@@ -22,8 +22,8 @@ Rodun (from the Icelandic word Röðun, with meanings pointing towards optimizat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sethbr11/materials_optimizer.git
-   cd materials_optimizer
+   git clone https://github.com/sethbr11/Rodun.git
+   cd Rodun
    ```
 
 2. Initialize and update submodules:
@@ -50,7 +50,7 @@ Rodun (from the Icelandic word Röðun, with meanings pointing towards optimizat
 5. Run the application:
 
    ```bash
-   ./materials_optimizer
+   ./Rodun
    ```
 
 6. If you are creating installers for the application, make sure you have create-dmg installed:
